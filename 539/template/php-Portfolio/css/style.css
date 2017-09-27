@@ -1,0 +1,140 @@
+body{
+	background-color: #A8CED9;
+}
+
+header {
+	position: fixed;
+	z-index: 20;
+	background-color: #001a33;
+	width: 100%;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar {
+	background:none;
+	border:none;
+	padding-top: 1%;
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.container-fluid {
+	padding:0px;
+}
+
+button.navbar-toggle{
+	margin-right: calc(50% - 22px);
+	margin-top: 5%;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #e55f47;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #A8CED9;
+}
+
+#me{
+	width:75px;
+	border-radius: 200px;
+	display: block;
+	border: 3px dotted;
+	color: goldenrod;
+	margin-left: 30%;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+
+header ul {
+	list-style-type: none;
+	top: 0;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.headnav {
+	font-size:36px;
+}
+
+header li {
+	display: inline;
+	text-align: center;
+	padding: 13px;
+}
+
+header li a {
+	color: white;
+	text-align: center;
+}
+
+a.active, .current {
+	color: #e55f47;
+}
+
+a:hover {
+	color: #e55f47;
+
+}
+
+#nav {
+	border: none;
+	font-family: 'Amatic SC', cursive;
+	font-size: 35px;
+	z-index: 10;
+	text-align: center;
+	padding-top: 1.5%;
+}
+
+#signature {
+	display: block;
+	text-align: center;
+	font-family: 'Bad Script', cursive;
+	font-size: 25px;
+	margin: 0 auto;
+	padding-top: 2.5%;
+	color: #c1921b;
+	padding-bottom: 2%;
+
+}
+
+#pname {
+	background-color: #f78c79;
+	text-align: center;
+	color: #001a33;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	margin-right: -120px;
+	margin-left: -120px;
+}
+
+h1 {
+	margin:0 auto;
+}
+
+h2{
+	font-family: 'Amatic SC', cursive;
+	margin:0 auto;
+}
+
+.imgdesign{
+	border: 1px solid #ddd;
+	box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+}
+
+#row1 {
+	margin-top:180px;
+}
+
+.text{
+	background-color: #f1f8ff;
+	margin-top:3%;
+}

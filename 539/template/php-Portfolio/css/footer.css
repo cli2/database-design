@@ -1,0 +1,20 @@
+#smedia {
+	text-align: center;
+}
+
+h2 {
+	text-decoration: none;
+}
+
+#smedia a:hover{
+	text-decoration: none;
+}
+
+.fa{
+	font-size: 50px;
+	color: #001a33;
+}
+
+.fa:hover {
+	color: #e55f47;
+}

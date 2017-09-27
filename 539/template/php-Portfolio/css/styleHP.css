@@ -1,0 +1,34 @@
+@media screen and (max-width: 992px) {
+	#neon {
+		display:none;
+	}
+	#airport {
+		display: none;
+	}
+
+	}
+
+@media screen and (max-width: 765px) {
+    #wheel {
+        display: none;
+    }
+}
+
+#garden {
+	margin-top:8%;
+	margin-bottom: 2%;
+}
+
+#basics1 {
+	font-family: 'Amatic SC', cursive; 
+	text-decoration: underline;
+}
+
+#neon {
+	margin-bottom: 2%;
+	overflow: hidden;
+}
+
+li{
+	list-style: none;
+}

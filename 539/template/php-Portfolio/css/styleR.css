@@ -1,0 +1,36 @@
+.rhead {
+	font-weight: bolder;
+	margin: 0 auto;
+}
+
+.rplace{
+	font-style: italic;
+	margin: 0 auto;
+}
+
+.rposition{
+	margin: 0 auto;
+	text-indent: 20px
+}
+
+.rdate {
+	font-family: "Bad Script", cursive;
+	font-size: 15px;
+	font-weight:500;
+}
+
+
+a .fa-caret-down {
+	font-size:12px;
+	margin-left:5px;
+}
+
+.none ul {
+	font-size:12px;
+}
+
+@media screen and (max-width: 765px) {
+	.none {
+		display:none;
+	}
+}

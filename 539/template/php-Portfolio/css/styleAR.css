@@ -1,0 +1,30 @@
+.caption {
+	background:#f1f8ff;
+	display: block;
+}
+
+p {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+@media screen and (min-width: 600px){
+	body {
+		background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/archive.jpg') 50% 50%;
+		background-size: auto;
+	}
+}
+
+@media screen and (max-width: 765px) {
+	.none {
+		display:none;
+	}
+	#mayibuye {
+		margin-top: 20px;
+	}
+}

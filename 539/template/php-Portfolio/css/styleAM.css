@@ -1,0 +1,44 @@
+@media screen and (max-width: 765px) {
+	#noshow {
+		display:none;
+	}
+}
+
+.c {
+	text-align: center;
+}
+
+.item p {
+	color:white;
+	margin:0;
+	background-color:black;
+	opacity:0.8;
+}
+
+ol{
+	margin-bottom:0;
+}
+.carousel-caption{
+	bottom:0;
+}
+
+.carousel-indicators {
+	font-size: 4px;
+	bottom:0;
+}
+
+.row2:hover .image {
+  opacity: 0.3;
+}
+
+.row2:hover .middle {
+  opacity: 1;
+}
+
+.words {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+  border-radius: 5px;
+}
